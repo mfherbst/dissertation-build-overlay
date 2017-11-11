@@ -1,0 +1,5 @@
+# Temporary files
+*~
+.*.swp
+*.pyc
+__pycache__

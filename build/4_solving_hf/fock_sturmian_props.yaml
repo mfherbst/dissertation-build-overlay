@@ -1,0 +1,6 @@
+- {final_error_norm: 0.13128298803191793, n_diagdominant: 14, n_rows: 17, order: mln,
+  quadratic: true, symmetric: true}
+- {final_error_norm: 0.00787810954346029, n_diagdominant: 14, n_rows: 17, order: mln,
+  quadratic: true, symmetric: true}
+- {final_error_norm: 6.67053551136637e-08, n_diagdominant: 14, n_rows: 17, order: mln,
+  quadratic: true, symmetric: true}
